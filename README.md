@@ -72,7 +72,7 @@ You are to build a tourism activity booking system where users can browse and bo
    - Implement resourceful methods in controllers (`index`, `show`, `store`, `update`, `destroy`).
 
 3. **Routes:**
-   - Define resource routes for activities and bookings in `routes/web.php`.
+   - Define resource routes for activities and bookings in `routes/api.php`.
 
 4. **Validation:**
    - Use form requests to validate incoming data for creating and updating activities and bookings.
