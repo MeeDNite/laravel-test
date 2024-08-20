@@ -14,6 +14,7 @@ You are to build a tourism activity booking system where users can browse and bo
      - `location` (string)
      - `price` (decimal)
      - `available_slots` (integer)
+     - `start_date` (timestamp)
      - `created_at` (timestamp)
      - `updated_at` (timestamp)
    
